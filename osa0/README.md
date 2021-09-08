@@ -16,5 +16,8 @@ Käyttäjä menee selaimella osoitteeseen https://studies.cs.helsinki.fi/example
 ![tokaKaavio](https://github.com/akuivan/FullStack2021/blob/main/osa0/kaavio0.5.JPG)
 
 
+### 0.6: Uusi muistiinpano
+Käyttäjä luo uuden muistiinpanon SPA-versiossa:
 
+![kolmasaKaavio](https://github.com/akuivan/FullStack2021/blob/main/osa0/kaavio0.6.JPG)
 
